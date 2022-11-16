@@ -4,8 +4,8 @@ user-agent: KojBot
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: Newsie.Social 
+    url: https://newsie.social
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Internet Archive
